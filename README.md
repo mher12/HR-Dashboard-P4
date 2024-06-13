@@ -12,4 +12,4 @@ The project includes the following steps: data loading, data cleaning and prepro
 **Results:** Reviewed and created dashboard on employee demographics.  
 **Quick View:**  
 
-<img src="https://github.com/mher12/HR-Dashboard-P3/blob/main/Hr-DB-P3.PNG" alt="light google themed dashboard with employee demographics" width="150" height="100">  
+<img src="https://github.com/mher12/HR-Dashboard-P4/blob/main/HR-DB-P4.PNG" alt="light hillside themed dashboard with employee demographics" width="150" height="100">   
